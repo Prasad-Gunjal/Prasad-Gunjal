@@ -1,20 +1,20 @@
 # Hi 👋, I'm Prasad
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Android+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 - 🔭 Working with *MERN Stack, Next.js, MySQL, AWS, Android Development*
 - 🌱 Learning *DSA, Aptitude, and Advanced Web Development*
-- 💬 Ask me about *Web Development, Cloud, Android Apps*
-- 📫 Reach me at *[your-email@example.com](mailto:your-email@example.com)*
+- 💬 Ask me about *Web Development, Cloud*
+- 📫 Reach me at *[your-email@example.com](prasadgunjal066@example.com)*
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,java,python,aws,docker,git,github,tailwind,bootstrap&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,java,python,aws,docker,git,github,tailwind,bootstrap&perline=10" />
 </div>
 
 ## 📊 GitHub Stats
