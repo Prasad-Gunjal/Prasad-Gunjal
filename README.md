@@ -9,7 +9,7 @@
 - 🔭 Working with *MERN Stack, Next.js, MySQL, AWS, Android Development*
 - 🌱 Learning *DSA, Aptitude, and Advanced Web Development*
 - 💬 Ask me about *Web Development, Cloud*
-- 📫 Reach me at *[your-email@example.com](prasadgunjal066@example.com)*
+- 📫 Reach me at *[prasadgunjal066@gmail.com](prasadgunjal066@gmail.com)*
 
 ## 💻 Tech Stack
 
